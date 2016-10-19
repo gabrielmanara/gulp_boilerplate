@@ -1,0 +1,21 @@
+@charset 'utf-8';
+
+
+// Import variables, abstractions, base styles and components.
+// Uncomment the next lines and adjust them to your needs.
+
+// Disable import path error for multiples files
+// scss-lint:disable ImportPath
+// scss-lint:disable StringQuotes
+@import 'libs/**/_*.scss';
+
+@import 'variables/**/_*.scss';
+@import 'abstractions/**/_*.scss';
+@import 'utilities/**/_*.scss';
+
+@import 'base/_*.scss';
+@import 'base/front/_*.scss';
+@import 'layout/_*.scss';
+@import 'layout/front/_*.scss';
+@import 'components/_**.scss';
+@import 'components/front/_*.scss';
