@@ -69,7 +69,6 @@
 
     "globals": {
         "angular": false,
-        "drupal": false,
-        "burkeawards": false
+        "App": false
     }
 }

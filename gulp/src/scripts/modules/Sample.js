@@ -9,7 +9,5 @@
     callSomeBeautifulFunc: function(element) {
       console.log('Beautiful Context' + element);
     }
-
-  }
-
+  };
 }(jQuery, App));

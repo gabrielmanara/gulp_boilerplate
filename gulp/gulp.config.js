@@ -7,7 +7,7 @@ var src = './src/',
     srcNodeModules = './node_modules/';
 
 var jsScriptsValidate = [
-  src + 'scripts/**/*.js',
+  src + 'scripts/modules/*.js',
   '!' + src + 'scripts/libs/**/*.js'
 ];
 

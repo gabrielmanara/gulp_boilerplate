@@ -38,5 +38,7 @@ jspm_packages
 
 # Dist files
 gulp/dist/
-
 dist/*
+
+# Quality reports
+gulp/.qualityReports
